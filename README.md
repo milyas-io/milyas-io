@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 🚀 AI_MAKER
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=AI_MAKER&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;System+Thinker+%7C+Problem+Solver;Low-Level+%26+High-Level+Developer;Building+Efficient+Scalable+Software" />
+</p>
+
+---
+
+## ⚡ About Me
+
+> “I don’t just write code — I design systems, solve problems, and engineer efficiency.”
+
+I am a **Computer Science student** deeply passionate about transforming logic into real-world systems.  
+My focus is on **clean architecture, performance optimization, and deep technical understanding** from low-level concepts to modern web applications.
+
+- 🧠 Strong foundation in **problem solving & algorithms**
+- 💻 Exploring **system design + scalable architectures**
+- 🔧 Comfortable from **Assembly → Full Stack Web**
+- 🚀 Always improving code quality, efficiency, and structure
+
+---
+
+## 🧬 Core Philosophy
+
+<p align="center">
+
+```text
+Bits → Logic → Systems → Impact
