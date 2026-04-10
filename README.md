@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=AI_MAKER&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;System+Thinker+%7C+Problem+Solver;Low-Level+%26+High-Level+Developer;Building+Efficient+Scalable+Software" />
