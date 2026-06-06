@@ -1,101 +1,168 @@
-# Hi there 👋
+# 👋 Muhammad Ilyas
 
-I'm **Muhammad Ilyas**, a Computer Science student with a strong interest in Artificial Intelligence, Machine Learning, Computer Vision, and Software Engineering.
-
-My journey into AI started with curiosity—understanding how machines can learn from data and make intelligent decisions. Since then, I have been actively learning through coursework, personal projects, research papers, and hands-on experimentation. I enjoy building projects, exploring new technologies, and continuously improving my understanding of both theoretical concepts and practical applications.
+🎓 BS Computer Science Student  
+🤖 Aspiring AI / ML Engineer | Computer Vision Enthusiast  
+🔬 Interested in Applied Research, Intelligent Systems & Software Engineering  
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 BS Computer Science Student
-* 🤖 Interested in Artificial Intelligence, Machine Learning, and Computer Vision
-* 💻 Enjoy solving problems through software and data-driven solutions
-* 📚 Passionate about continuous learning and self-improvement
-* 🔍 Exploring opportunities in both industry and research
-* 🌱 Currently strengthening my knowledge of Deep Learning, Transfer Learning, and AI Research
+I am a Computer Science student focused on building a strong foundation in **Artificial Intelligence, Machine Learning, Computer Vision, and Software Engineering**.
+
+My interest lies in understanding how intelligent systems work under the hood and how they can be applied to solve meaningful real-world problems. I actively explore concepts through **hands-on projects, experimentation, and continuous learning**, rather than just theoretical study.
+
+I am currently strengthening my skills in **Deep Learning, Transfer Learning, and Applied AI**, while also developing full-stack and system-level software projects to gain a broader engineering perspective.
+
+My goal is to contribute to **research-driven and industry-level AI systems** in the future.
 
 ---
 
-## 🔬 What I'm Working On
+## 🧠 Areas of Interest
 
-Recently, I worked on a Computer Vision project focused on plant disease classification using leaf images. For this project, I explored Transfer Learning by fine-tuning pre-trained deep learning models on a plant disease dataset. This experience helped me understand the complete machine learning pipeline, including data preprocessing, image augmentation, model training, evaluation, and performance optimization.
-
-Beyond project implementation, I am interested in understanding why models work, how they can be improved, and how research ideas can be translated into practical solutions. This curiosity is what motivates me to continue learning and exploring the field of AI.
-
----
-
-## 🛠️ Skills & Technologies
-
-### Programming
-
-* Python
-* Java
-* C++
-* SQL
-* Assembly Language
-
-### Artificial Intelligence & Data Science
-
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Transfer Learning
-* Data Analysis
-* Model Evaluation
-
-### Libraries & Tools
-
-* NumPy
-* Pandas
-* Scikit-learn
-* TensorFlow / Keras
-* Jupyter Notebook
-* Git & GitHub
-
-### Software Development
-
-* Object-Oriented Programming (OOP)
-* Java Swing
-* JDBC
-* MySQL
-* Software Design Principles
+- Artificial Intelligence
+- Machine Learning & Deep Learning
+- Computer Vision
+- Applied Research in AI
+- Software Engineering
+- Full-Stack Development
+- Intelligent Systems Design
 
 ---
 
-## 🎯 Current Goals
+## 🔬 Research & Practical Experience
 
-I am actively working toward becoming a stronger AI practitioner and researcher by building projects, studying research literature, and gaining practical experience through collaboration.
+### 🌱 Plant Disease Classification (Computer Vision + Transfer Learning)
 
-I am particularly interested in opportunities that allow me to:
+A deep learning project focused on classifying plant diseases from leaf images using **transfer learning with pre-trained CNN models**.
 
-* Apply Machine Learning and Computer Vision to real-world problems
-* Contribute to research-oriented projects
-* Learn from experienced engineers and researchers
-* Develop industry-level software and AI solutions
-* Grow as both a researcher and software developer
+This project helped me understand the complete AI pipeline, from dataset handling to model evaluation.
+
+**Key Contributions:**
+- Image preprocessing and augmentation techniques
+- Transfer learning using pre-trained models
+- Model training and hyperparameter tuning
+- Evaluation using accuracy and performance metrics
+- Understanding overfitting and generalization
+
+**Technologies:**
+Python • TensorFlow / Keras • NumPy • Pandas • OpenCV
+
+---
+
+## 🏗️ Software Engineering Projects
+
+### 🏛️ Awan Marble & Granite – Full Stack E-Commerce Platform
+
+A full-stack web application designed for managing and showcasing marble and granite products with a structured backend and REST API system.
+
+**Key Features:**
+- Product catalog and management system
+- RESTful API with CRUD operations
+- MongoDB database integration
+- Responsive frontend interface
+- Admin-side product management
+
+**Tech Stack:**
+Node.js • Express.js • MongoDB • JavaScript • HTML • CSS
+
+---
+
+### 💼 MES Complaint Management System (Java Desktop Application)
+
+A desktop-based system developed using Java for managing complaint registration, tracking, and resolution.
+
+**Core Concepts Implemented:**
+- Object-Oriented Programming (OOP)
+- DAO (Data Access Object) architecture
+- JDBC database connectivity
+- Modular layered design pattern
+- GUI development using Java Swing
+
+**Tech Stack:**
+Java • Swing • JDBC • MySQL
+
+---
+
+### 🎮 Assembly Breakout Game (Low-Level Systems Project)
+
+A classic Breakout game developed in **8086 Assembly Language**, using BIOS and DOS interrupts for graphics and system interaction.
+
+**Learning Focus:**
+- Low-level memory handling
+- CPU interrupts and hardware interaction
+- Game logic in Assembly
+- System-level programming fundamentals
+
+**Tech Stack:**
+8086 Assembly • MASM/TASM • DOSBox
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+Python • Java • C++ • JavaScript • SQL • Assembly
+
+### AI / Machine Learning
+Machine Learning • Deep Learning • Computer Vision • Transfer Learning • Data Analysis
+
+### Web Development
+HTML • CSS • JavaScript • Node.js • Express.js
+
+### Databases
+MongoDB • MySQL
+
+### Tools & Platforms
+Git • GitHub • Jupyter Notebook • VS Code • Postman
+
+---
+
+## 🎯 Current Focus
+
+I am currently focused on:
+
+- Strengthening Machine Learning & Deep Learning fundamentals  
+- Building end-to-end AI projects  
+- Reading and understanding research papers  
+- Improving system design and software engineering skills  
+- Exploring opportunities in AI research and industry collaboration  
 
 ---
 
 ## 🤝 Open To Opportunities
 
-I am currently looking for:
+I am actively looking for:
 
-* Machine Learning Internships
-* AI & Computer Vision Internships
-* Research Assistantship Opportunities
-* Undergraduate Research Collaborations
-* Final Year Project (FYP) Collaborations
-* Open Source Contributions
+- AI / Machine Learning Internships  
+- Computer Vision Projects  
+- Research Assistantships  
+- Undergraduate Research Collaborations  
+- Final Year Project (FYP) Collaboration Opportunities  
+- Software Engineering Internships  
 
-If you are working on an interesting project, research initiative, startup, or industry collaboration, I would be excited to connect, learn, and contribute.
+I am especially interested in opportunities where I can **learn from experienced researchers and engineers while contributing to real-world systems and research-based projects**.
 
 ---
 
-## 💡 A Thought That Drives Me
+## 📌 Philosophy
 
-> "Every expert was once a beginner who kept learning, building, and improving."
+> “Understanding comes from building, not just reading.”
 
-I believe that curiosity, consistency, and a willingness to learn are among the most valuable qualities in technology. My goal is not only to build useful systems but also to contribute to meaningful advancements in AI and computer science.
+I believe consistent learning, experimentation, and curiosity are key to growth in AI and software engineering. Every project I build is a step toward becoming a better engineer and researcher.
 
-📫 Feel free to connect if you'd like to discuss AI, Machine Learning, research opportunities, internships, or potential collaborations.
+---
+
+## 📫 Contact & Collaboration
+
+I am always open to discussions related to:
+
+- Artificial Intelligence & Machine Learning  
+- Research ideas and collaboration  
+- Internship opportunities  
+- Open-source contributions  
+- Project-based learning  
+
+---
+
+⭐ If you find my work interesting, feel free to connect or collaborate!
