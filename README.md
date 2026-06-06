@@ -3,7 +3,8 @@
 🎓 BS Computer Science Student  
 🤖 Aspiring AI / ML Engineer | Computer Vision Enthusiast  
 🔬 Interested in Applied Research, Intelligent Systems & Software Engineering  
-**Portfolio Page:** https://milyas-io.github.io
+
+*Portfolio Page:* https://milyas-io.github.io
 ---
 
 ## 🚀 About Me
